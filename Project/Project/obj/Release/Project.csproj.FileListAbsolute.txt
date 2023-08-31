@@ -1,0 +1,21 @@
+C:\Users\Артемий\Desktop\Project\Project\bin\Release\Project.exe.config
+C:\Users\Артемий\Desktop\Project\Project\bin\Release\Project.exe
+C:\Users\Артемий\Desktop\Project\Project\bin\Release\Project.pdb
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.csprojAssemblyReference.cache
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.Form1.resources
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.csproj.GenerateResource.cache
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.csproj.CoreCompileInputs.cache
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.exe
+C:\Users\Артемий\Desktop\Project\Project\obj\Release\Project.pdb
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\bin\Release\Project.exe.config
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\bin\Release\Project.exe
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\bin\Release\Project.pdb
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.csproj.AssemblyReference.cache
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.Form1.resources
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.csproj.GenerateResource.cache
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.csproj.CoreCompileInputs.cache
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.exe
+C:\Users\79043_xl\OneDrive\Рабочий стол\Книги\Project\Project\obj\Release\Project.pdb
